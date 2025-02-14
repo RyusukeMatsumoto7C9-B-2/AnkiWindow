@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnkiWindow", "AnkiWindow\AnkiWindow.csproj", "{FECC8932-5918-4FCB-AE7D-A4E84B60D566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FECC8932-5918-4FCB-AE7D-A4E84B60D566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FECC8932-5918-4FCB-AE7D-A4E84B60D566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FECC8932-5918-4FCB-AE7D-A4E84B60D566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FECC8932-5918-4FCB-AE7D-A4E84B60D566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
